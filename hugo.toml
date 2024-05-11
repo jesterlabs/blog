@@ -35,6 +35,11 @@ url = "https://twitter.com/jesterlabs_ai/"
 # Main menu Items
 
 [[menu.main]]
+name = "Blog Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
 name = "All posts"
 url = "/posts"
 weight = 2
