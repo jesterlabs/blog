@@ -1,15 +1,1 @@
-[submodule "themes/hugo.386"]
-	path = themes/hugo.386
-	url = https://gitlab.com/jmfergeau/hugo.386
-[submodule "themes/hugo-theme-console"]
-	path = themes/hugo-theme-console
-	url = https://github.com/mrmierzejewski/hugo-theme-console.git
-[submodule "themes/hugo-8bits-theme"]
-	path = themes/hugo-8bits-theme
-	url = https://github.com/miguelsimoni/hugo-8bits-theme.git
-[submodule "themes/tophat"]
-	path = themes/tophat
-	url = https://github.com/sergiobarriel/tophat-theme.git
-[submodule "themes/archie"]
-	path = themes/archie
-	url = https://github.com/athul/archie
+
